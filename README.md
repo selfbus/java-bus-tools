@@ -1,8 +1,10 @@
 java-bus-tools
 ==============
 
-Java tools and libraries for home-bus access.
+The contents of this repository was moved to the repositories:
+selfbus/tools-libraries
+selfbus/development-tools
+selfbus/development-tools-incubation
 
-sbtools-common contains some common stuff
-sbtools-knxcom is for EIB bus communication
-sbtools-knxcom-gui contains GUI components for configuring the sbtools-knxcom
+This repository is deprecated and will be removed.
+
